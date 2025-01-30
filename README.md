@@ -1,5 +1,5 @@
-# chatbot-project
-My Second AI chatbot built with Python and NLTK
+# My First AI Chatbot 🤖
+
 This is a simple chatbot built using Python and NLTK. It can answer questions, tell jokes, and more!
 
 ## How to Run
